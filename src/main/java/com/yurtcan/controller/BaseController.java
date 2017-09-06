@@ -1,4 +1,4 @@
-package com.mkyong.controller;
+package com.yurtcan.controller;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
